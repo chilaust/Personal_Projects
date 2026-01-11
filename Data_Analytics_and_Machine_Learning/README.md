@@ -13,6 +13,6 @@ I believe that one of the greatest tools today for decision making is machine le
 6. Develop a large full stack project in one of my interests that utilizes data analytics and machine learning
 
 ## Table of Contents
-1. 1. SVD & Image Compression
+1. SVD & Image Compression
 2. K-Means Clustering and Image Segmentation
 3. Least Squares and Eigenvalues
