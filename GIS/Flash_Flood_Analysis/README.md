@@ -35,6 +35,8 @@ This is an area in Zion National Park called Pine Creek. It is a tight slot cany
 
 *Note: I think that the original DEM was not granular enough and so when the canyon was really tight in the DEM I worry that it made an effective 'dam' to the water resulting in the odd flow pattern at the end.*
 
+### Tool Inputs
 ![Tool Inputs](https://github.com/chilaust/Personal_Projects/blob/3297c7b86107cc26d33fe33acea93b62c36b87dd/GIS/Flash_Flood_Analysis/Flash_flood_tool.png?raw=true)
 
+### Final Predicted Flood Path
 ![Flash Flood Path](https://github.com/chilaust/Personal_Projects/blob/ca8da23b9ba0677073a0e1cdcdb1dfc1bfe85b9c/GIS/Flash_Flood_Analysis/Flash_flood_output.png?raw=true)
