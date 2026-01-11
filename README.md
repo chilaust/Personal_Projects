@@ -1,5 +1,7 @@
 # Personal_Projects
 
+*Timely Note: This is currently a work in progress to get local projects and files uploaded and worked on. It may take some time but the next update will be 01/13/2026*
+
 ## Introduction
 Hey there! My name is Austin Child. Welcome to my personal project and coding sample page. Hopefully you find what you need. Here is a little bit about me:
 
