@@ -13,7 +13,7 @@ My interest in AI saftey began in December of 2025. After struggling to find thi
 6. 🔻 Participate in an internship or fellowship in AI alignment (Start summer of 2026)
 
 ## Table of Contents
-1. Saftey wrapper for LLM API (quick project)
+1. Safety wrapper for LLM API (quick project)
 2. Kalman Filter (done for a previous project)
 3. Conditioning & Stability (done for a previous project)
 4. NEXT GOAL: Start contributing to an open-source AI Saftey Repo (looking at *guardrails-ai*)
