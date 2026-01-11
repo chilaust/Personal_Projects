@@ -32,8 +32,9 @@ This tool was built specifically for Southern Utah to predict if flash floods wo
 
 ## Working Example
 This is an area in Zion National Park called Pine Creek. It is a tight slot canyon. You can see the inputs on the tool and the ultimate output at the end. 
+
 *Note: I think that the original DEM was not granular enough and so when the canyon was really tight in the DEM I worry that it made an effective 'dam' to the water resulting in the odd flow pattern at the end.*
 
-![Tool Inputs](GIS/Flash_Flood_Analysis/Flash_flood_tool.png)
+![Tool Inputs](https://github.com/chilaust/Personal_Projects/blob/3297c7b86107cc26d33fe33acea93b62c36b87dd/GIS/Flash_Flood_Analysis/Flash_flood_tool.png?raw=true)
 
 ![Flash Flood Path](GIS/Flash_Flood_Analysis/Flash_flood_output.png)
