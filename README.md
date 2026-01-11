@@ -7,7 +7,7 @@ My 3 favorite things are sunshine through the window, cool breezes, and being ha
 
 ## Table of Contents:
 ### AI Saftey
-1. A breif overview of my interests and current interests
+1. README.md (A brief overview of my interests and current work)
 2. Saftey Wrapper for LLM API (quick project)
 3. Kalman Filter
 4. Conditioning & Stability
