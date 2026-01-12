@@ -41,5 +41,3 @@ This is an area in Zion National Park called Pine Creek. It is a tight slot cany
 ### Final Predicted Flood Path
 ![Flash Flood Path](https://github.com/chilaust/Personal_Projects/blob/ca8da23b9ba0677073a0e1cdcdb1dfc1bfe85b9c/GIS/Flash_Flood_Analysis/Flash_flood_output.png?raw=true)
 
-
-WHY IS THIS NOT WORKING
